@@ -1,6 +1,6 @@
 <script src="https://kit.fontawesome.com/889acaf6e2.js"></script>
 
-# Probability & Stochastic Processes
+# Probability & Stochastic Processes Fall 2022
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Course Calendar Fall 2021
+# Course Calendar Fall 2022
 
 ## Final Exam
 
