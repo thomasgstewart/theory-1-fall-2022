@@ -8,7 +8,6 @@ The final exam will occur between 8 December 2022 and 13 December 2022.  Student
 
 There will be 12 assignments.  Some of the assignments will be traditional problem sets.  Others will be more substantial projects requiring the students to perform a simulation and summarize findings in a blog format.  Each assignment will be graded on a pass/fail basis. Students will have opportunities to resubmit each assignment multiple times within a 2 week window after of initial feedback.
 
-
 | Title | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
 | 0. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-29 | Not available |
