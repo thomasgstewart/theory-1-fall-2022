@@ -29,7 +29,7 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 
 | Topic | Slides | Textbook sections | Whiteboards | Videos |
 |---|:---:|:---:|---|---|
-| Class logistics | | | | |
+| Class logistics |  [first day survey](https://virginia.az1.qualtrics.com/jfe/form/SV_7WhYEQOSB5JIzDE) | | | |
 | **Overview** | | | | |
 | **Definitions of Probability** | | | | |
 | **Simulation & Operating Characteristics** | | | | |
