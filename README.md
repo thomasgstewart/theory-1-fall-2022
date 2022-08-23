@@ -20,7 +20,7 @@ Associate Professor
 [Jason Wang]()  
 PhD Candidate  
 <i class="fas fa-envelope"></i> jyw5hw@virginia.edu  
-<i class="fab fa-github-square"></i> XXX
+<i class="fab fa-github-square"></i> jasnwag
 
 ## Instruction & Office hours <i class="fas fa-chalkboard-teacher"></i>
 
