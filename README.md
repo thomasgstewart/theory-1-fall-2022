@@ -28,7 +28,7 @@ PhD Candidate
 
 **Please note:** Circumstances may require the face-to-face portion of the class to be online.
 
-**Time:** Monday, Wednesday, and Friday @ 9am - Dell XXX
+**Time:** Monday, Wednesday, and Friday @ 9am - Dell 2 Room 100
 
 **Office Hours:** Monday, Wednesday, and Friday @ 10am - Dell common area
 
