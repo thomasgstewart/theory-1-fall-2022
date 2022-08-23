@@ -11,7 +11,7 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 
 | Title | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
-| 0. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2022/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-29 | Not available |
+| 0. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-29 | Not available |
 | 1. | | |
 | 2. | | |
 | 3. | | |

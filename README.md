@@ -1,6 +1,6 @@
 <script src="https://kit.fontawesome.com/889acaf6e2.js"></script>
 
-# Probability & Inference
+# Probability & Stochastic Processes
 
 ## Overview
 

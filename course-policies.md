@@ -3,7 +3,7 @@
 ## Grading
 
 ### Deliverables and problem sets
-There are **12** assignments. Some of the assignments will be traditional problem sets.  Others will be more substantial projects requiring the students to perform a simulation and summarize findings in a blog format.  Each deliverable will be graded on a pass/fail basis.  Students will have opportunities to resubmit deliverables **within 2 weeks** of initial feedback. 
+There are **12** assignments. Some of the assignments will be traditional problem sets.  Others will be more substantial projects requiring the students to perform a simulation and summarize findings in a blog format.  Each assignment will be graded on a pass/fail basis.  Students will have opportunities to resubmit deliverables **within 2 weeks** of initial feedback. 
 
 ### Final exam
 
@@ -31,4 +31,4 @@ The instructor may alter the course content and grading policies during the seme
 
 ## Collaborative learning
 
-Students are encouraged to study together.  The instructions for each deliverable will indicate if and how students may work together on the deliverable.  Students should not collaborate on the final exam.  Students that violate the collaborative-work policy on an deliverable will fail the deliverable in question and forfeit the opportunity to retake or resubmit.  Students that violate the collaborative-work policy on the final exam will fail all sections of the final exam and forfeit the opportunity to retake or resubmit.  Students may be refered to UVA Honor Committee.
+Students are encouraged to study together.  The instructions for each assignment will indicate if and how students may work together on the deliverable.  Students should not collaborate on the final exam.  Students that violate the collaborative-work policy on an assignment will fail the assignment in question and forfeit the opportunity to retake or resubmit.  Students that violate the collaborative-work policy on the final exam will fail all sections of the final exam and forfeit the opportunity to retake or resubmit.  Students may be refered to UVA Honor Committee.
