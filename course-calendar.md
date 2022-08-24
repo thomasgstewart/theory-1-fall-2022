@@ -31,8 +31,8 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 |---|:---:|:---:|---|---|
 | Class logistics |  [first day survey](https://virginia.az1.qualtrics.com/jfe/form/SV_7WhYEQOSB5JIzDE) | | | |
 | **Overview** | | | | |
-| **Definitions of Probability** | | | | |
-| **Simulation & Operating Characteristics** | | | | |
+| **Definitions of Probability** | [slides](https://tgstewart.cloud/01-probability-definition-slides.html) | | | |
+| **Simulation & Operating Characteristics** | [slides](https://tgstewart.cloud/01-probability-definition-slides.html) <br> [slides](https://tgstewart.cloud/02-simulation-review-slides.html) | | | |
 | **Basic Probability Ideas** | | | | |
 |  → Belief vs Frequency  | | | | |
 |  → Notebook / data.frame definition  | | | | |
