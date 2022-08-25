@@ -29,7 +29,7 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 
 | Topic | Slides | Textbook sections | Whiteboards | Videos |
 |---|:---:|:---:|---|---|
-| Class logistics |  [first day survey](https://virginia.az1.qualtrics.com/jfe/form/SV_7WhYEQOSB5JIzDE) | | | |
+| Class logistics |  [first day survey](https://virginia.az1.qualtrics.com/jfe/form/SV_7WhYEQOSB5JIzDE) | | | [Github desktop](https://virginia.zoom.us/rec/share/z-XH0pwb6b7_llxDs0brhhrwHmFMCFvVJWhF6xFk6xb4rc1OGyGf17UXRcLfOC3t.jr5N80K-l43300K-?startTime=1661462848000) |
 | **Overview** | | | | |
 | **Definitions of Probability** | [slides](https://tgstewart.cloud/01-probability-definition-slides.html) | | | |
 | **Simulation & Operating Characteristics** | [slides](https://tgstewart.cloud/01-probability-definition-slides.html) <br> [slides](https://tgstewart.cloud/02-simulation-review-slides.html) | | | |
