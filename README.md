@@ -58,4 +58,4 @@ The course will be taught using  [R (link)](https://www.R-project.org/).
 
 ## Communication
 
-To be discussed on the first day of class.  Slack? Discord? Email?
+Students will be invited to a Teams channel. Questions related to course logistics, content, assignments, or the final project/exam should be posted in the Teams channel. Individual questions should be sent to the instructor and/or TA by direct chat in Teams.
