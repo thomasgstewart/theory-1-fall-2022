@@ -35,17 +35,18 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | **Simulation & Operating Characteristics** | [slides](https://tgstewart.cloud/01-probability-definition-slides.html) <br> [slides](https://tgstewart.cloud/02-simulation-review-slides.html) | | | |
 | **Basic Probability Ideas** | | | | |
 |  → Belief vs Frequency  | | | | |
-|  → Notebook / data.frame definition  | | | | |
-|  → And, Or  | | | | |
-|  → Conditional Probability | | | | |
-|  → Law of Total Probability | | | | |
-|  → Bayes Rule | | | | |
-| **Discrete Probability Models** | | | | |
-| → Bernouli Random Variables | | | | |
-| → Binomial Random Variables | | | | |
-| → Negative Binomial Random Variables | | | | |
-| → Poisson Random Variables | | | | |
-| → Probability Mass Function | | | | |
+|  → Notebook / data.frame definition  | [slides](https://tgstewart.cloud/03-probability-basics-slides.html) | | | |
+|  → And, Or  | | M 1.3, R 1.3 | | |
+|  → Conditional Probability |  | M 1.3, R 1.4 | | |
+|  → Law of Total Probability | | [wiki](https://en.wikipedia.org/wiki/Law_of_total_probability) | | |
+|  → Bayes Rule | | M 1.9, R 1.6 | | |
+|  → Random variable | | M 3.1, R 1.6 | | |
+| **Discrete Probability Models** | | M 3.2, M 5 | | |
+| → Probability Mass Function | | M 5.1, R 2.2| | |
+| → Bernouli Random Variables | | M 5.4, R 2.2.1 | | |
+| → Binomial Random Variables | | M 5.4.2, R 2.2.2 | | |
+| → Negative Binomial Random Variables | | M 5.4.1, R 2.2.3 | | |
+| → Poisson Random Variables | | M 5.5.1, R 2.2.4 | | |
 | **Continuous Probability Models** | | | | |
 | → Cumulative Distribution Function | | | | |
 | → Probability Density Function | | | | |
