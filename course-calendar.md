@@ -11,7 +11,7 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | Title | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
 | 0. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-29 | Not available |
-| 1. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/01-roulette.md">Roulette</a> | | |
+| 1. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/01-roulette.md">Roulette</a> | 2022-09-05 | |
 | 2. | | |
 | 3. | | |
 | 4. | | |
@@ -35,17 +35,17 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | **Simulation & Operating Characteristics** | [slides](https://tgstewart.cloud/01-probability-definition-slides.html) <br> [slides](https://tgstewart.cloud/02-simulation-review-slides.html) | | | |
 | **Basic Probability Ideas** | | | | |
 |  → Belief vs Frequency  | | | | |
-|  → Notebook / data.frame definition  | [slides](https://tgstewart.cloud/03-probability-basics-slides.html) | | | |
-|  → And, Or  | | M 1.3, R 1.3 | | |
-|  → Conditional Probability |  | M 1.3, R 1.4 | | |
-|  → Law of Total Probability | | [wiki](https://en.wikipedia.org/wiki/Law_of_total_probability) | | |
-|  → Bayes Rule | | M 1.9, R 1.6 | | |
+|  → Notebook / data.frame definition  | [slides](https://tgstewart.cloud/03-probability-basics-slides.html) <br> [slides](https://tgstewart.cloud/04-probability-bayes-rule.pdf) | | | |
+|  → And, Or  | | M 1.3, R 1.3 | " | |
+|  → Conditional Probability |  " | M 1.3, R 1.4 | | |
+|  → Law of Total Probability | " | [wiki](https://en.wikipedia.org/wiki/Law_of_total_probability) | | |
+|  → Bayes Rule | [slides](https://tgstewart.cloud/04-more-bayes.pdf) | M 1.9, R 1.6 | | |
 |  → Random variable | | M 3.1, R 1.6 | | |
 | **Discrete Probability Models** | | M 3.2, M 5 | | |
 | → Probability Mass Function | | M 5.1, R 2.2| | |
-| → Bernouli Random Variables | | M 5.4, R 2.2.1 | | |
-| → Binomial Random Variables | | M 5.4.2, R 2.2.2 | | |
-| → Negative Binomial Random Variables | | M 5.4.1, R 2.2.3 | | |
+| → Bernouli Random Variables | [slides](https://tgstewart.cloud/05-binomial-prob.html) | M 5.4, R 2.2.1 | | |
+| → Binomial Random Variables | " | M 5.4.2, R 2.2.2 | | |
+| → Negative Binomial Random Variables | " | M 5.4.1, R 2.2.3 | | |
 | → Poisson Random Variables | | M 5.5.1, R 2.2.4 | | |
 | **Continuous Probability Models** | | | | |
 | → Cumulative Distribution Function | | | | |
