@@ -32,6 +32,8 @@ PhD Candidate
 
 **Office Hours:** Monday, Wednesday, and Friday @ 10am - Dell common area
 
+**TA Office Hours:** Tuesday @ 11am - Dell common area
+
 ## Textbooks <i class="fas fa-book"></i>
 
 Probability and Statistics for Data Science  
