@@ -21,7 +21,7 @@ When describing the simulation solution, use the results of the previous deliver
 ### Submission instructions
 
 1.  Within your course repo, create a
-    folder called `ec1-birthday-problem`.
+    folder called `03B-birthday-problem`.
 2.  Within the folder, create the file `writeup.html`.  
 3.  Edit the README to be an index for the portfolio.  
 4.  Be prepared to share your blog post with the class when the
