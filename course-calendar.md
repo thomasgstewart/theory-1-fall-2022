@@ -13,7 +13,8 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | 0. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-29 | Not available |
 | 1. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/01-roulette.md">Roulette</a> | 2022-09-05 | 2022-09-23 |
 | 2. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/02-interview-question.md">Interview question</a> | 2022-09-14 | |
-| 3. | | |
+| 3A. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/02-simulation-error.md">Simulation error</a>  | 2022-09-23 | |
+| 3B. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/03-birthday-problem.md">Birthday problem</a>  | 2022-09-26 | |
 | 4. | | |
 | 5. | | |
 | 6. | | |
@@ -46,8 +47,8 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | → Bernouli Random Variables | [slides](https://tgstewart.cloud/05-binomial-prob.html) | M 5.4, R 2.2.1 | | |
 | → Binomial Random Variables | " | M 5.4.2, R 2.2.2 | | |
 | → Negative Binomial Random Variables | " | M 5.4.1, R 2.2.3 | | |
-| → Poisson Random Variables | | M 5.5.1, R 2.2.4 | | |
-| **Continuous Probability Models** | | | | |
+| → Poisson Random Variables | [slides](https://tgstewart.cloud/06-poisson.html) | M 5.5.1, R 2.2.4 | | |
+| **Continuous Probability Models** | [slides](https://tgstewart.cloud/08-continuous-probability-models.html) <br> [slides](https://tgstewart.cloud/09-continuous-probability-models-part2.html) | | | |
 | → Cumulative Distribution Function | | | | |
 | → Probability Density Function | | | | |
 | → Uniform Random Variables  | | | | |
