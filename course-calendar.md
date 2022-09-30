@@ -12,9 +12,9 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 |---|:---:|---|
 | 0. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/00-getting-started.md">Student Profile</a> | 2021-08-29 | Not available |
 | 1. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/01-roulette.md">Roulette</a> | 2022-09-05 | 2022-09-23 |
-| 2. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/02-interview-question.md">Interview question</a> | 2022-09-14 | 2022-10-14 |
-| 3A. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/02-simulation-error.md">Simulation error</a>  | 2022-09-23 | 2022-10-14 |
-| 3B. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/03-birthday-problem.md">Birthday problem</a>  | 2022-09-26 | 2022-10-14 |
+| 2. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/02-interview-question.md">Interview question</a> | 2022-09-14 | 2022-10-08 |
+| 3A. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/02-simulation-error.md">Simulation error</a>  | 2022-09-23 | 2022-10-13 |
+| 3B. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/03-birthday-problem.md">Birthday problem</a>  | 2022-09-26 | 2022-10-13 |
 | 4. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/04-first-to-k-wins.md">First to k wins</a> | 2022-10-07 | |
 | 5. | | |
 | 6. | | |
