@@ -61,10 +61,8 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | → Data Types | | | | |
 | → Categorical, Ordinal, Interval, and Ratio Variables | | | | |
 | → Covariance | | | | |
-| **Transformations of individual observations** | [slides](https://tgstewart.cloud/11-transformations-order-statistics.html
-) | | | |
-| **Transformations of samples** |[slides](https://tgstewart.cloud/11-transformations-order-statistics.html
-) | | | |
+| **Transformations of individual observations** | [slides](https://tgstewart.cloud/11-transformations-order-statistics.html) | | | |
+| **Transformations of samples** |[slides](https://tgstewart.cloud/11-transformations-order-statistics.html) | | | |
 | → Min and Max | | | | |
 | → Quantiles | | | | |
 | → Order Statistics | | | | |
