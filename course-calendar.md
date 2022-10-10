@@ -48,7 +48,7 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | → Binomial Random Variables | " | M 5.4.2, R 2.2.2 | | |
 | → Negative Binomial Random Variables | " | M 5.4.1, R 2.2.3 | | |
 | → Poisson Random Variables | [slides](https://tgstewart.cloud/06-poisson.html) | M 5.5.1, R 2.2.4 | | |
-| **Continuous Probability Models** | [slides](https://tgstewart.cloud/08-continuous-probability-models.html) <br> [slides](https://tgstewart.cloud/09-continuous-probability-models-part2.html) | | | |
+| **Continuous Probability Models** | [slides](https://tgstewart.cloud/08-continuous-probability-models.html) <br> [slides](https://tgstewart.cloud/09-continuous-probability-models-part2.html) <br> [lots-o-pdfs](https://www.desmos.com/calculator/qgpfi00qnb) | | | |
 | → Cumulative Distribution Function | | | | |
 | → Probability Density Function | | | | |
 | → Uniform Random Variables  | | | | |
@@ -57,12 +57,14 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | → Gamma Random Variables  | | | | |
 | → Beta Random Variables  | | | | |
 | → Mixture Distributions  | | | | |
-| **Expectation and Variance** | | | | |
+| **Expectation and Variance** | [slides](https://tgstewart.cloud/10-expectation-variance.html) | | | |
 | → Data Types | | | | |
 | → Categorical, Ordinal, Interval, and Ratio Variables | | | | |
 | → Covariance | | | | |
-| **Transformations of individual observations** | | | | |
-| **Transformations of samples** | | | | |
+| **Transformations of individual observations** | [slides](https://tgstewart.cloud/11-transformations-order-statistics.html
+) | | | |
+| **Transformations of samples** |[slides](https://tgstewart.cloud/11-transformations-order-statistics.html
+) | | | |
 | → Min and Max | | | | |
 | → Quantiles | | | | |
 | → Order Statistics | | | | |
