@@ -15,7 +15,7 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | 2. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/02-interview-question.md">Interview question</a> | 2022-09-14 | 2022-10-08 |
 | 3A. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/02-simulation-error.md">Simulation error</a>  | 2022-09-23 | 2022-10-13 |
 | 3B. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/03-birthday-problem.md">Birthday problem</a>  | 2022-09-26 | 2022-10-13 |
-| 4. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/04-first-to-k-wins.md">First to k wins</a> | 2022-10-07 | |
+| 4. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/04-first-to-k-wins.md">First to k wins</a> | 2022-10-07 | 2022-10-30 |
 | 5. | <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/05-distribution-practice-problems.md">Practice problems</a> | 2022-10-26 |
 | 6. | | |
 | 7. | | |
