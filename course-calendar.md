@@ -63,11 +63,11 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | → Covariance | | | | |
 | **Transformations of individual observations** | [slides](https://tgstewart.cloud/11-transformations-order-statistics.html) | | | |
 | **Transformations of samples** |[slides](https://tgstewart.cloud/11-transformations-order-statistics.html) | | | |
-| → Min and Max | | | | |
-| → Quantiles | | | | |
-| → Order Statistics | | | | |
-| → Sampling distributions | [slides](https://tgstewart.cloud/13-bootstrap.html) | | | |
-| **Methods of Fitting Models** | [slides](https://tgstewart.cloud/14-fitting-continuous-models.html)<br>[slides](https://tgstewart.cloud/15-fitting-continuous-models-mle.html) | | | |
+| → Min and Max | M 7 | | | |
+| → Quantiles | M 7 | | | |
+| → Order Statistics | M 7 | | | |
+| → Sampling distributions | [slides](https://tgstewart.cloud/13-bootstrap.html) | M 7 | | |
+| **Methods of Fitting Models** | [slides](https://tgstewart.cloud/14-fitting-continuous-models.html)<br>[slides](https://tgstewart.cloud/15-fitting-continuous-models-mle.html) | M 8 | | |
 | → QQ-plot | | | | |
 | → Method of moments | | | | |
 | → Maximum likelihood | | | | |
