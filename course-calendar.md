@@ -17,7 +17,7 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | 3B. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/03-birthday-problem.md">Birthday problem</a>  | 2022-09-26 | 2022-10-13 |
 | 4. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/04-first-to-k-wins.md">First to k wins</a> | 2022-10-07 | 2022-10-30 |
 | 5. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/05-distribution-practice-problems.md">Practice problems</a> | 2022-10-26 | |
-| 6. | | |
+| 6. <a class = "callink" href = "https://github.com/thomasgstewart/theory-1-fall-2022/blob/master/deliverables/06-order-statistics.md">Order statistics</a> | | |
 | 7. | | |
 | 8. | | |
 | 9. | | |
@@ -66,14 +66,14 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | → Min and Max | | | | |
 | → Quantiles | | | | |
 | → Order Statistics | | | | |
-| → Sampling distributions | | | | |
-| **Methods of Fitting Models** | | | | |
+| → Sampling distributions | [slides](https://tgstewart.cloud/13-bootstrap.html) | | | |
+| **Methods of Fitting Models** | [slides](https://tgstewart.cloud/14-fitting-continuous-models.html)<br>[slides](https://tgstewart.cloud/15-fitting-continuous-models-mle.html) | | | |
 | → QQ-plot | | | | |
 | → Method of moments | | | | |
 | → Maximum likelihood | | | | |
 | → Bayesian | | | | |
 | → Kernel Density Estimation | | | | |
-| **Sampling Distributions from Fitted Models** | | | | |
+| **Sampling Distributions from Fitted Models** | [slides](https://tgstewart.cloud/15-fitting-continuous-models-mle.html) | | | |
 | → Bootstrap | | | | |
 | → Simulation | | | | |
 | → Central Limit Theorem | | | | |
