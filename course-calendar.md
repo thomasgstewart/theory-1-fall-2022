@@ -73,7 +73,7 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | → Maximum likelihood | | | | |
 | → Bayesian | | | | |
 | → Kernel Density Estimation | | | | |
-| **Sampling Distributions from Fitted Models** | [slides](https://tgstewart.cloud/15-fitting-continuous-models-mle.html) | | | |
+| **Sampling Distributions from Fitted Models** | [slides](https://tgstewart.cloud/16-sampling-distributions-from-Fhat.html) | | | |
 | → Bootstrap | | | | |
 | → Simulation | | | | |
 | → Central Limit Theorem | | | | |
