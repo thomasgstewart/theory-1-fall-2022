@@ -77,7 +77,7 @@ There will be 12 assignments.  Some of the assignments will be traditional probl
 | → Bootstrap | | | | |
 | → Simulation | | | | |
 | → Central Limit Theorem | | | | |
-| **Brief introduction to inference** | [slides](https://tgstewart.cloud/19-normal-distribution-clt.html) | | | |
+| **Brief introduction to inference** | [slides](https://tgstewart.cloud/19-normal-distribution-clt.html) <br> [slides](https://tgstewart.cloud/inference2.pdf) | | | |
 | → Sampling and Inference | | | | |
 | → Inference with CI | | | | |
 | → Inference with Hypothsis testing | | | | |
